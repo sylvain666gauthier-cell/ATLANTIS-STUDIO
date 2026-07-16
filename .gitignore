@@ -1,0 +1,12 @@
+# Config locale des outils — ne pas versionner
+.obsidian/
+.claude/settings.local.json
+CLAUDE.local.md
+*.local.md
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Exports lourds temporaires
+*.tmp
