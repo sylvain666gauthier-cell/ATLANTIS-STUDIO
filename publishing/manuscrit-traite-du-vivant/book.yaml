@@ -1,0 +1,24 @@
+title: "Le Traité du Vivant"
+type: "manuscrit fondateur — ouvrage encyclopédique et initiatique de l'univers"
+status: "development"
+authority:
+  author: "Sylvain Gauthier"
+
+structure:
+  ouverture:
+    - "La Grande Voie de Maât"
+    - "Le Déphasage"
+  chapitres: "un par constellation originelle (13)"
+  gabarit_de_chapitre: "canon/04-constellations.md — section Gabarit"
+  liste_des_treize: "À RÉSOUDRE — chemin critique (canon/04-constellations.md)"
+
+style:
+  reference: "canon/05-style.md — PARTIE I (voix du manuscrit) uniquement"
+
+canon_files:
+  - canon/00-constitution.md
+  - canon/01-lois.md
+  - canon/02-cosmologie.md
+  - canon/03-vivant.md
+  - canon/04-constellations.md
+  - canon/05-style.md
